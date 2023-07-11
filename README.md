@@ -1,5 +1,5 @@
-# Loxone eletrical cabinet
-Need to create a loxone panel? With these assets you can now easily design one with Affinity Designer 2!
+# Loxone electrical cabinet
+Need to create a Loxone electrical panel? With these assets you can now easily design one with Affinity Designer 2!
 
 # How to use
 Video with more information: https://www.youtube.com/watch?v=83chJG58-_A&t=378s
