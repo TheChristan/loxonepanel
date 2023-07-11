@@ -2,7 +2,7 @@
 Need to create a Loxone electrical panel? With these assets you can now easily design one with Affinity Designer 2!
 
 # How to use
-Video with more information: https://www.youtube.com/watch?v=83chJG58-_A&t=378s
+Video with more information: https://youtu.be/83chJG58-_A
 NOTE! In the video he already has a preset for A0, but this wasn't for me included in Affinity Designer 2. So you need to create one for yourself. You can do this by creating a new file, then in the pop-up screen create your own preset on the bottom left. Use for Page width 841mm and for Page height 1189mm. If you got any questions about this, just ask :).
 
 Steps:
