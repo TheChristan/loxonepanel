@@ -19,7 +19,7 @@ NOTE! Make sure that you have selected the right assets in the Asset screen on t
 
 # Thanks to
 Thanks to Thames valley Automation for designen these assets!
-You can visit them on ThamesValleyAutomation.co.uk
-Or on instagram: https://www.instagram.com/thamesvalleyautomation/
+You can visit them on www.ThamesValleyAutomation.co.uk
+Or on instagram: www.instagram.com/thamesvalleyautomation/
 
 If you need any help, then make a issue and I will answer as fast as I can!
