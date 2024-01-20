@@ -18,7 +18,7 @@ Steps:
 NOTE! Make sure that you have selected the right assets in the Asset screen on the left of Affinity Designer 2
 
 # Thanks to
-Thanks to Thames valley Automation for designen these assets!
+Thanks to Thames valley Automation for designing these assets!
 You can visit them on www.ThamesValleyAutomation.co.uk
 
 Or on instagram: www.instagram.com/thamesvalleyautomation/
